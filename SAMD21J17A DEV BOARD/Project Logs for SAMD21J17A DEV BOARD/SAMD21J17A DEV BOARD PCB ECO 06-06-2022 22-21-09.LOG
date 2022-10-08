@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=USB-D+ New Net Name=USB-D_P
+Change Net Name : Old Net Name=USB-D- New Net Name=USB-D_N
+Added Differential Pair: Name=USB-D
+Added Room: Name=SAMD21J17A DEV BOARD
